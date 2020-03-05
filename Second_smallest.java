@@ -1,5 +1,5 @@
 package ex1;
-
+//This is a second Smallest number project
 public class Second_smallest {
 	public static void main(String[] args) {
 		int []a={10,2,5,6,8,3,5,1};
