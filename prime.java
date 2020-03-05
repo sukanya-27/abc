@@ -1,5 +1,5 @@
 package ex1;
-
+//this is a prime no program.
 public class Prime_num1 {
 	public static void main(String[] args) {
 		int num=29,temp = 0;
